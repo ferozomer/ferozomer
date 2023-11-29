@@ -107,11 +107,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
 </div>
 
+<br clear="both">
+<br clear="both">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ferozomer&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferozomer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<br clear="both">
+<br clear="both">
 <div align="center">
     <img height="290" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
