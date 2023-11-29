@@ -56,6 +56,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=perl" height="30" alt="perl logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="perl logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=planetscale" height="30" alt="planetscale logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
