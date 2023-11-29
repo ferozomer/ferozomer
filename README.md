@@ -20,6 +20,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
@@ -56,7 +58,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=perl" height="30" alt="perl logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="perl logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=planetscale" height="30" alt="planetscale logo"  />
   <img width="12" />
