@@ -6,7 +6,6 @@
 </div>
 
 
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -72,9 +71,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
 </div>
+<div>
 
-
-
+  
+</div>
 <div align="center">
     <img height="290" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
