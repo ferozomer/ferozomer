@@ -1,4 +1,4 @@
-<img src="https://ik.imagekit.io/ferozomer/7.jpg" alt="Cover" />
+<img src="https://raw.githubusercontent.com/ferozomer/ferozomer/main/assets/cover.jpg" alt="Cover" />
 
 <h3 align="left">🛠 Language and tools</h3>
 <div align="center">
