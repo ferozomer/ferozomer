@@ -112,6 +112,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferozomer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<br>
+<p align="center">
+    <a style="text-decoration: none;" href="http://github.com/ferozomer">
+        <img
+            src="https://komarev.com/ghpvc/?username=ferozomer&style=for-the-badge&color=00AA00"
+            alt="View Count"
+            title="View count (click for something interesting)">
+    </a>
+
 <br clear="both">
 <div align="center">
     <img src="https://spotify-seven-dusky.vercel.app/api/spotify" alt="Spotify recently played"  />
