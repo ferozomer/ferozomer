@@ -121,11 +121,6 @@
             title="View count (click for something interesting)">
     </a>
 
-<br clear="both">
-<div align="center">
-    <img src="https://spotify-seven-dusky.vercel.app/api/spotify" alt="Spotify recently played"  />
-</div>
-
 
 <br clear="both">
 <div align="center">
